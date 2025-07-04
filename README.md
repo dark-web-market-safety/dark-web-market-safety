@@ -106,3 +106,5 @@ Knowing how to handle issues is crucial for safety.
 
 Darknet market safety requires ongoing vigilance and a commitment to secure practices. By following these guidelines, you can reduce risks and enjoy a safer experience. Always verify information, use encryption, and stay informed about the latest security threats.
 Plase contribute and add stars to this repo.
+
+Update: link is live and clickable
